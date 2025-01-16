@@ -1,6 +1,20 @@
 img{
-    border: 1px solid grey;
+    border: 1px solid #730909;
     border-radius: 10px;
     width: 20%;
     padding: 10px;
+}
+h1  {
+    font-family: Georgia, Times, serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    color: darkgreen;
+    text-align: center;
+    background-color: aliceblue;
+    ul{
+        list-style-type: square;
+        margin-left: 5%;
+        border: 1pt dotted grey;
+        width: 20%;
+    }
 }
